@@ -24,11 +24,6 @@ Double-click on index.html to open it in your browser.
 You should see the To-Do application in action.
 For Development:
 
-If you plan to make changes to the code, open the HTML, CSS, and JavaScript files in your editor and make your modifications.
-Refresh the browser to see changes.
-Running the Project Locally (Optional)
-If you are using a server-side framework or development environment, you may need to install dependencies:
-
 bash
 Copy code
 npm install
