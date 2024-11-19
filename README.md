@@ -2,7 +2,8 @@
 
 This is a simple To-Do web application built using HTML, CSS, and JavaScript. The app allows users to add, edit, and delete tasks to manage their to-do list.
 
-![image alt] (https://github.com/nutharaaa/ToDo-App/blob/3d8b5a06c7ef943303f00607899b318ebc2b23c0/Screenshot%20(75).png)
+![Screenshot](https://raw.githubusercontent.com/nutharaaa/ToDo-App/3d8b5a06c7ef943303f00607899b318ebc2b23c0/Screenshot%20(75).png)
+
 ## Setup Instructions
 
 ### Prerequisites
